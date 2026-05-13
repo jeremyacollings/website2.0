@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jeremyacollings.github.io/sitemap.xml
+Sitemap: https://jeremyacollings.github.io/website2.0/sitemap.xml

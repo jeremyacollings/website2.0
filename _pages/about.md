@@ -7,11 +7,8 @@ subtitle: <a href='https://www.nynhp.org/'>New York Natural Heritage Program</a>
 profile:
   align: right
   image: me.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,6 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Jeremy Collings, and I'm a quantitative ecologist and biostatistician. I have a strong statistical modeling background and experience with a diverse set of methods and applications, and I utilize my skillset for both fundamental and applied research as well as teaching and mentoring folks to think like a modeller. 
-
-Albany, N.Y.
+My name is Jeremy, and I'm a quantitative ecologist and biostatistician. I have a strong statistical modeling background and experience with a diverse set of methods and applications, and I utilize my skillset for both fundamental and applied research as well as teaching and mentoring folks to think like a modeller. 

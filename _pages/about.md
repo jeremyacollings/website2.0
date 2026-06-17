@@ -13,10 +13,6 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 
 ---
 
-My name is Jeremy, and I'm a quantitative ecologist and biostatistician. I have a strong statistical modeling background and experience with a diverse set of methods and applications, and I utilize my skillset for both fundamental and applied research as well as teaching and mentoring folks to think like a modeller. 
+I am a quantitative ecologist working at the intersection of population and community ecology, with a particular interest in applying theory to messy, real-world problems. I hold the unglamorous view that ecologists are nearly always underpowered to answer the questions that we need to answer. I approach this by using Bayesian hierarchical models, analytical methods, and simulations to quantify uncertainty and make as robust inference as possible about ecological systems. I hope that such inference, wide credible intervals and all, may advance our understanding of the world and help inform the decisions of conservation practitioners. 

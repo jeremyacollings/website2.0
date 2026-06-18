@@ -1,189 +1,161 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Jeremy Collings
+  label: Quantitative Ecologist
+  email: jeremy.a.collings6@gmail.com
+  location: Albany, NY
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: I use a variety of modeling techniques to help answer fundamental questions in ecology and guide decision making for conservation practioners. I also do statistical consulting, and I mentor and teach a variety of topics in the general sphere of quantitative ecology. 
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
+    - network: BlueSky
+      username: JeremyCollings
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: JeremyACollings
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
+      - institution: University of Oregon
+        location: Eugene, OR
         url: https://www.uzh.ch/
-        area: Physics
+        area: Biology
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        start_date: 2021
+        end_date: 2025
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: SUNY Cortland
+        location: Cortland, NY
+        area: Conservation Biology
+        studyType: BSc
+        start_date: 2017
+        end_date: 2020
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: New York Natural Heritage Program
+        position: Biodiversity Researcher
+        location: Albany, NY
+        start_date: 2026
+        end_date: Now
+        summary: Leveraging decades of data on rare species, native vegetation communities, and biological invasions to assess the risk of invasive species to rare populations and vulnerables communities across New York State. 
 
-      - company: California Institute of Technology
-        position: Visiting Professor
+      - company: Michigan Tech
+        position: Postdoctoral Researcher
         location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+        start_date: 2026
+        summary: Performed mark-recapture analyses on longterm mistnetting datasets from across Central and South America to assess anthropogenic drivers of tropical bird demography.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Synthesis Skills for Early Career Researchers Fellowships
+        date: 2024
+        awarder: Long Term Ecological Research Network
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Alumni Travel Award
+        date: 2022
+        awarder: Ecological Society of America's SEEDS Program
+        
+      - title: Barry Goldwater Scholarship
+        date: 2019
+        awarder: Barry Goldwater Scholarship and Excellence in Education Foundation
 
+      - title: SPUR Fellowship
+        date: 2019
+        awarder: Ecological Society of America's SEEDS Program
+        
+      - title: Ecological Section Poster Award
+        date: 2019
+        awarder: Botanical Society of America
+        
+      - title: NYFA Research Grant
+        date: 2019
+        awarder: New York Flora Association
+
+      - title: SUNY Cortland Undergraduate Research Fellowship
+        date: 2019
+        awarder: SUNY Cortland Undergraduate Research Foundation
+        
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Environmental context alters plant-soil feedback effects on plant coexistence
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+          - Jeremy Collings, Lauren Shoemaker, Jeff Diez
+        publisher: Ecology
+        releaseDate: 2025
+        url: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.70170
+        
+      - title: Climate change aggravates bird mortality in pristine tropical forests.
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Jared Wolfe, David Luther, Vitek Jirinec, Jeremy Collings, Erik Johnson, Robert Bierregaard Jr., Philip Stouffer
+        publisher: Science Advances
+        releaseDate: 2025
+        url: https://www.science.org/doi/full/10.1126/sciadv.adq8086
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Soil mycobiome dissimilarity, independent of fungal guild, is associated with increased probability of plant coexistence
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Jeremy Collings, Emily Cook, Jeff Diez
+        publisher: Journal of Ecology
+        releaseDate: 2024
+        url: https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.14396
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Germination phenology alters species coexistence outcomes
+        authors:
+          - Jeff Diez, Jenn Schlauch, Elysa DuCharme, Jeremy Collings, Sarah Erskine
+        publisher: Journal of Ecology
+        releaseDate: 2024
+        url: https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.14382
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: Multiple stressors prevent gains in native plant diversity following invasive species removal
+        authors:
+          - Jeremy Collings, Stacy Endriss, Andrea Davalos
+        publisher: Journal of Ecology
+        releaseDate: 2023
+        url: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.4458
 
-      - name: English
-        summary: "Fluent"
+    Academic Presentations:
+      - name: Effects of Environmental Drivers Across Ecological Scales (2025)
+        summary: Presentation given at the end of the Synthesis Skills for Early Career Researchers
+        
+      - name: Leveraging Coexistence Theory to Study Ongoing Questions in Plant-Microbial Ecology (2024)
+        summary: Invited seminar for UC Irvine's Ecology and Evolutionary Biology Department
+        
+      - name: Oral conference presentations
+        summary: at the annual meeting for the Ecological Society of America (2020-2024)
+        
+       - name: Poster presentations
+        summary: at the annual meeting for the Botany (2019-2020) and the North American Council for Conservation Biology (2018)
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+       - name: Student and colleague presentations
+        summary: Nine in total
+        
+    Professional Presentations:
+      - name: How Pretty Flowers Tricked Me into Becoming a Statistician (2024)
+        summary: Presentation for STEM students at Lane Community College
+        
+      - name: Research and Grad School Q&A (2022)
+        summary: Guest speaker for LSAMP STEM Seminar at SUNY Cortland
+        
+      - name: Student Research in Ecology and Evolution (2021 & 2022)
+        summary: Panel for Syracuse University's Department of Biology
+        
+       - name: Benefits of Research
+        summary: Panel for Ecological Society of America's Student Services Program
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+       - name: Students' Perspective about Diversity in Skills Development for Fieldwork
+        summary: Panel for Ecological Society of America's Student Section
+        
+       - name: Asian Worm Seminar
+        summary: Talk given for Monroe County Master Gardeners and Monroe County public
+        
+       - name: "Plants: Friends or Foe"
+        summary: Talk given for the McLean Beautification Committee and Lime Hollow Nature Center
+        
+    Teaching:
+      - name: Population Ecology
+        summary: Designed and led students through hands-on computer labs designed to teach various topics in population modeling, including both stochastic and deterministic population models. Worked with students to develop and complete independent modeling projects.
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Introductory Ecology & Evolution Biology
+        summary: Led students through hands-on activities in the lab and field to teach core concepts in EEB.
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    Service:
+      - name: Peer Reviewer
+        summary: Written for PNAS, The American Naturalist, Ecological Monographs, Ecology Letters, Ecology, Journal of Ecology, Biological Invasions, Movement Ecology, Plant and Soil, Journal of the Royal Society Interface, Frontiers in Ecology and Evolution, Invasive Plant Science and Management, and Discover Plants (27 in total)
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Organized and Led the Temporal Ecology Journal Club at the Univeristy of Oregon (2024)
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.

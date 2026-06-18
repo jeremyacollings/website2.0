@@ -4,7 +4,7 @@ cv:
   email: jeremy.a.collings6@gmail.com
   location: Albany, NY
   image: ""
-  summary: I use a variety of modeling techniques to help answer fundamental questions in ecology and guide decision making for conservation practioners. I also do statistical consulting, and I mentor and teach a variety of topics in the general sphere of quantitative ecology. 
+  summary: I use a variety of modeling techniques to help answer fundamental questions in ecology and guide decision making for conservation practioners. I also do statistical consulting, and I mentor and teach a variety of topics in the general sphere of quantitative ecology.
 
   social_networks:
     - network: BlueSky
@@ -35,7 +35,7 @@ cv:
         location: Albany, NY
         start_date: 2026
         end_date: Now
-        summary: Leveraging decades of data on rare species, native vegetation communities, and biological invasions to assess the risk of invasive species to rare populations and vulnerables communities across New York State. 
+        summary: Leveraging decades of data on rare species, native vegetation communities, and biological invasions to assess the risk of invasive species to rare populations and vulnerables communities across New York State.
 
       - company: Michigan Tech
         position: Postdoctoral Researcher
@@ -51,7 +51,7 @@ cv:
       - title: Alumni Travel Award
         date: 2022
         awarder: Ecological Society of America's SEEDS Program
-        
+
       - title: Barry Goldwater Scholarship
         date: 2019
         awarder: Barry Goldwater Scholarship and Excellence in Education Foundation
@@ -59,11 +59,11 @@ cv:
       - title: SPUR Fellowship
         date: 2019
         awarder: Ecological Society of America's SEEDS Program
-        
+
       - title: Ecological Section Poster Award
         date: 2019
         awarder: Botanical Society of America
-        
+
       - title: NYFA Research Grant
         date: 2019
         awarder: New York Flora Association
@@ -71,7 +71,7 @@ cv:
       - title: SUNY Cortland Undergraduate Research Fellowship
         date: 2019
         awarder: SUNY Cortland Undergraduate Research Foundation
-        
+
     Publications:
       - title: Environmental context alters plant-soil feedback effects on plant coexistence
         authors:
@@ -79,7 +79,7 @@ cv:
         publisher: Ecology
         releaseDate: 2025
         url: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.70170
-        
+
       - title: Climate change aggravates bird mortality in pristine tropical forests.
         authors:
           - Jared Wolfe, David Luther, Vitek Jirinec, Jeremy Collings, Erik Johnson, Robert Bierregaard Jr., Philip Stouffer
@@ -111,41 +111,41 @@ cv:
     Academic Presentations:
       - name: Effects of Environmental Drivers Across Ecological Scales (2025)
         summary: Presentation given at the end of the Synthesis Skills for Early Career Researchers
-        
+
       - name: Leveraging Coexistence Theory to Study Ongoing Questions in Plant-Microbial Ecology (2024)
         summary: Invited seminar for UC Irvine's Ecology and Evolutionary Biology Department
-        
+
       - name: Oral conference presentations
         summary: at the annual meeting for the Ecological Society of America (2020-2024)
-        
-       - name: Poster presentations
+
+      - name: Poster presentations
         summary: at the annual meeting for the Botany (2019-2020) and the North American Council for Conservation Biology (2018)
 
-       - name: Student and colleague presentations
+      - name: Student and colleague presentations
         summary: Nine in total
-        
+
     Professional Presentations:
       - name: How Pretty Flowers Tricked Me into Becoming a Statistician (2024)
         summary: Presentation for STEM students at Lane Community College
-        
+
       - name: Research and Grad School Q&A (2022)
         summary: Guest speaker for LSAMP STEM Seminar at SUNY Cortland
-        
+
       - name: Student Research in Ecology and Evolution (2021 & 2022)
         summary: Panel for Syracuse University's Department of Biology
-        
-       - name: Benefits of Research
+
+      - name: Benefits of Research
         summary: Panel for Ecological Society of America's Student Services Program
 
-       - name: Students' Perspective about Diversity in Skills Development for Fieldwork
+      - name: Students' Perspective about Diversity in Skills Development for Fieldwork
         summary: Panel for Ecological Society of America's Student Section
-        
-       - name: Asian Worm Seminar
+
+      - name: Asian Worm Seminar
         summary: Talk given for Monroe County Master Gardeners and Monroe County public
-        
-       - name: "Plants: Friends or Foe"
+
+      - name: "Plants: Friends or Foe"
         summary: Talk given for the McLean Beautification Committee and Lime Hollow Nature Center
-        
+
     Teaching:
       - name: Population Ecology
         summary: Designed and led students through hands-on computer labs designed to teach various topics in population modeling, including both stochastic and deterministic population models. Worked with students to develop and complete independent modeling projects.
@@ -158,4 +158,3 @@ cv:
         summary: Written for PNAS, The American Naturalist, Ecological Monographs, Ecology Letters, Ecology, Journal of Ecology, Biological Invasions, Movement Ecology, Plant and Soil, Journal of the Royal Society Interface, Frontiers in Ecology and Evolution, Invasive Plant Science and Management, and Discover Plants (27 in total)
 
       - name: Organized and Led the Temporal Ecology Journal Club at the Univeristy of Oregon (2024)
-
